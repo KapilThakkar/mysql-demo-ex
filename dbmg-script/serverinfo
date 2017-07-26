@@ -1,0 +1,13 @@
+## Source Server
+SRC_HOST=c2c-awsdb.c9w8kbikblme.ap-southeast-1.rds.amazonaws.com
+SRC_PORT=3306
+SRC_DATABASE=cardb
+SRC_USER=admin
+SRC_PASSWORD=Newuser#123
+
+## Destination Server
+DEST_HOST=rm-dj1xb75kzva5cbqrfo.mysql.rds.aliyuncs.com
+DEST_PORT=3306
+DEST_DATABASE=cardb
+DEST_USER=c2cadmin
+DEST_PASSWORD=Newuser#123
