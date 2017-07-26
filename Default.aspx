@@ -121,7 +121,7 @@
 
     <div class="container theme-showcase">
         <footer>
-            <p>© 2016 - Click2Cloud Inc.</p>
+            <p>© 2017 - Click2Cloud Inc.</p>
         </footer>
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
