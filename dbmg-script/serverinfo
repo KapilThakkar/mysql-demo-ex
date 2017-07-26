@@ -2,7 +2,7 @@
 SRC_HOST=c2c-awsdb.c9w8kbikblme.ap-southeast-1.rds.amazonaws.com
 SRC_PORT=3306
 SRC_DATABASE=cardb
-SRC_USER=admin
+SRC_USER=c2cadmin
 SRC_PASSWORD=Newuser#123
 
 ## Destination Server
